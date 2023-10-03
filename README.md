@@ -3,7 +3,9 @@
 
 # Installation
 git clone https://github.com/pranshux0x/passwordManager.git
+
 cd passwordManager
+
 pip3 install -r requirements.txt
 
 # Usage
